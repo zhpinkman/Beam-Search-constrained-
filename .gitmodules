@@ -1,0 +1,3 @@
+[submodule "privacy-preserving-nlp"]
+	path = privacy-preserving-nlp
+	url = git@github.zhaw.ch:vode/privacy-preserving-nlp.git
